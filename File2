@@ -7,3 +7,14 @@ add new file in GitHub to GitBash:
 4. "ls" to list and see the new file name added
 
 for updates and edits, check with "vi File2" and see inside it
+
+if MERGE CONFLICT:
+1. pull from GitHub,  to GitBash (update)
+2. add files
+3. commit
+4. push
+(this is the general remedy, each scenerio is diff)
+
+git log -> commit history
+
+Learn Branching (merge,...)
