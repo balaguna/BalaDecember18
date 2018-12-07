@@ -1,8 +1,5 @@
 Hello World! Git lesson
-esq w q
-esc
-w
-q
-esc w q
+
+to leave file, hit ESC key > SPACEBAR > type ":wq" > ENTER
 
 
