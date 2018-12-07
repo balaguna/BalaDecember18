@@ -1,1 +1,9 @@
 File2 to test push pull
+
+add new file in GitHub to GitBash:
+1. Create new file in repo in GitHub
+2. Commit button in GitHub
+3. go to GitBash and "git pull"
+4. "ls" to list and see the new file name added
+
+for updates and edits, check with "vi File2" and see inside it
